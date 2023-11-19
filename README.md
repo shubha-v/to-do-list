@@ -10,4 +10,4 @@ Prerequisites:
 7. add all the code in main.dart file.
 8. run the flutter project using **flutter run**
 
-I haev documented my project and attaching the document here:
+I have documented my project and attaching the document here:
